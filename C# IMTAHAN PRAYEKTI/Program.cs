@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Net.NetworkInformation;
 using System.Text.Json;
 
@@ -485,7 +485,7 @@ namespace C__IMTAHAN_PRAYEKTI
                         employers[_kimlikIndex_].Vacanciess.Add(new Vacancies(employers[_kimlikIndex_].Id, id, katagory, isVaxti, isYeri, salary, NeceIsciAxtarilir, hefdeninGunleri));
                         return true;
                     }
-                    else { try { throw new QeydiyatException(); } catch (QeydiyatException qe) { Console.WriteLine(qe.Message); return false; } }
+                    else { try { throw new QeydiyatException(); } catch (QeydiyatException qe) { Console.WriteLine(qe.Message); Thread.Sleep(1500); return false; } }
                    
                 }
 
