@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "d30ab844-b711-415e-a690-424a653ccf8f",
+    "IdMy": "49bb0ecb-7beb-4ace-b014-55116918fa8d",
+    "Kataqorisi": "Programist",
+    "IsVaxti": "09:00/19:00",
+    "IsYeri": "Baki",
+    "Salary": 4000,
+    "NeceIsciAxtarilir": 3,
+    "HefdeninIsGunlri": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "WorkerList": []
+  },
+  {
+    "Id": "d30ab844-b711-415e-a690-424a653ccf8f",
+    "IdMy": "dc2ed534-ab11-481f-9cd7-3407f62d6b26",
+    "Kataqorisi": "Massin ustasi",
+    "IsVaxti": "08:00\\20:00",
+    "IsYeri": "",
+    "Salary": 3000,
+    "NeceIsciAxtarilir": 3,
+    "HefdeninIsGunlri": [
+      1,
+      2,
+      5
+    ],
+    "WorkerList": []
+  }
+]

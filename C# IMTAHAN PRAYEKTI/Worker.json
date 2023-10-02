@@ -1,0 +1,65 @@
+[
+  {
+    "Id": "394d7e47-5d5d-4fc2-b0b0-bb1452187f48",
+    "Name": "Isci",
+    "Surname": "Iscili",
+    "Seher": "sumqayit",
+    "Phone": "055-555-55-55",
+    "Age": 24,
+    "cV": {
+      "Ixtisas": "fehle",
+      "OMekdeb": "yoxdu",
+      "UniBal": 0,
+      "Bacatiqlar": [
+        "yox"
+      ],
+      "Mekan": "5 ci mikra rayon",
+      "Lengivics": [
+        "yox"
+      ],
+      "Diplom": false
+    }
+  },
+  {
+    "Id": "29000579-b5de-45b6-8183-764e90b26976",
+    "Name": "w",
+    "Surname": "w",
+    "Seher": "w",
+    "Phone": "000-500-55-55",
+    "Age": 23,
+    "cV": {
+      "Ixtisas": "w",
+      "OMekdeb": "w",
+      "UniBal": 34,
+      "Bacatiqlar": [
+        "w"
+      ],
+      "Mekan": "w",
+      "Lengivics": [
+        "w"
+      ],
+      "Diplom": true
+    }
+  },
+  {
+    "Id": "675417c1-c1a7-4613-90c7-2ff657c686b8",
+    "Name": "w",
+    "Surname": "w",
+    "Seher": "w",
+    "Phone": "000-500-55-55",
+    "Age": 23,
+    "cV": {
+      "Ixtisas": "w",
+      "OMekdeb": "w",
+      "UniBal": 34,
+      "Bacatiqlar": [
+        "w"
+      ],
+      "Mekan": "w",
+      "Lengivics": [
+        "w"
+      ],
+      "Diplom": true
+    }
+  }
+]

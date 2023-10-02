@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "d30ab844-b711-415e-a690-424a653ccf8f",
+    "Name": "IsVeren",
+    "Surname": "IsVerenli",
+    "Seher": "baki",
+    "Phone": "077-777-77-77",
+    "Age": 34,
+    "Vacanciess": [
+      {
+        "Id": "d30ab844-b711-415e-a690-424a653ccf8f",
+        "IdMy": "49bb0ecb-7beb-4ace-b014-55116918fa8d",
+        "Kataqorisi": "Programist",
+        "IsVaxti": "09:00/19:00",
+        "IsYeri": "Baki",
+        "Salary": 4000,
+        "NeceIsciAxtarilir": 3,
+        "HefdeninIsGunlri": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "WorkerList": []
+      },
+      {
+        "Id": "d30ab844-b711-415e-a690-424a653ccf8f",
+        "IdMy": "dc2ed534-ab11-481f-9cd7-3407f62d6b26",
+        "Kataqorisi": "Massin ustasi",
+        "IsVaxti": "08:00\\20:00",
+        "IsYeri": "",
+        "Salary": 3000,
+        "NeceIsciAxtarilir": 3,
+        "HefdeninIsGunlri": [
+          1,
+          2,
+          5
+        ],
+        "WorkerList": []
+      },
+      {
+        "Id": "d30ab844-b711-415e-a690-424a653ccf8f",
+        "IdMy": "dc2ed534-ab11-481f-9cd7-3407f62d6b26",
+        "Kataqorisi": "Massin ustasi",
+        "IsVaxti": "08:00\\20:00",
+        "IsYeri": "",
+        "Salary": 3000,
+        "NeceIsciAxtarilir": 3,
+        "HefdeninIsGunlri": [
+          1,
+          2,
+          5
+        ],
+        "WorkerList": []
+      }
+    ],
+    "Workers": [
+      {
+        "Id": "394d7e47-5d5d-4fc2-b0b0-bb1452187f48",
+        "Name": "Isci",
+        "Surname": "Iscili",
+        "Seher": "sumqayit",
+        "Phone": "055-395-34-56",
+        "Age": 24,
+        "cV": {
+          "Ixtisas": "fehle",
+          "OMekdeb": "yoxdu",
+          "UniBal": 0,
+          "Bacatiqlar": [
+            "yox"
+          ],
+          "Mekan": "5 ci mikra rayon",
+          "Lengivics": [
+            "yox"
+          ],
+          "Diplom": false
+        }
+      }
+    ]
+  },
+  {
+    "Id": "25d04194-5bcd-41a8-985b-daed795b0739",
+    "Name": "e1",
+    "Surname": "e1li",
+    "Seher": "sumqayit",
+    "Phone": "055-234-45-34",
+    "Age": 34,
+    "Vacanciess": [],
+    "Workers": []
+  }
+]

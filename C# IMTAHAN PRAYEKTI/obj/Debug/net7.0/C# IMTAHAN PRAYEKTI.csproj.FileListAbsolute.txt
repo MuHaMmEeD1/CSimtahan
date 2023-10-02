@@ -1,0 +1,15 @@
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\bin\Debug\net7.0\C# IMTAHAN PRAYEKTI.exe
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\bin\Debug\net7.0\C# IMTAHAN PRAYEKTI.deps.json
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\bin\Debug\net7.0\C# IMTAHAN PRAYEKTI.runtimeconfig.json
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\bin\Debug\net7.0\C# IMTAHAN PRAYEKTI.dll
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\bin\Debug\net7.0\C# IMTAHAN PRAYEKTI.pdb
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.csproj.AssemblyReference.cache
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.AssemblyInfoInputs.cache
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.AssemblyInfo.cs
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.dll
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\refint\C# IMTAHAN PRAYEKTI.dll
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.pdb
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\C# IMTAHAN PRAYEKTI.genruntimeconfig.cache
+C:\Users\AzComp\source\repos\C# IMTAHAN PRAYEKTI\C# IMTAHAN PRAYEKTI\obj\Debug\net7.0\ref\C# IMTAHAN PRAYEKTI.dll
